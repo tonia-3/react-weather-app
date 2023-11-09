@@ -1,0 +1,26 @@
+.Weather {
+  font-family: "Courier New", Courier, monospace;
+  background-color: black;
+  border: 1px solid;
+  padding: 16px;
+  border-radius: 4px;
+  color: aliceblue;
+}
+.Weather form {
+  margin-bottom: 20px;
+}
+.Weather h1 {
+  font-size: 24px;
+  font-weight: 100;
+  line-height: 30px;
+}
+.Weather ul {
+  margin: 0;
+  padding: 0;
+}
+.Weather li {
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 20px;
+  list-style: none;
+}
